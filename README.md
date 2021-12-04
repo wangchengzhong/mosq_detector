@@ -1,15 +1,3 @@
-<p align="center">
-  <img alt="Figaro" src="media/figaro.png" width="125" height="125" />
-</p>
-<h1 align="center">Figaro</h1>
-<p align="center">
-  <img alt="GitHub" src="https://img.shields.io/github/license/MattMoony/figaro?style=for-the-badge">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MattMoony/figaro?style=for-the-badge">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/MattMoony/figaro?style=for-the-badge&color=cecece">
-</p>
-
----
-
 ## About
 
 Real-time open-source voice modification program & sound board. Can be useful for many things, especially when used in combination with virtual sound i/o devices.
