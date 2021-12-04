@@ -29,7 +29,9 @@ def test_mosquito(buff):
     #     return res_array
     #if count>512*30*6:
     if len(buff)<2:
+
         return np.array([])
+        
     down_buff = librosa.resample(buff,44100,8000)
     whole_array=np.concatenate((whole_array,down_buff))
     if len(whole_array)>512*30:
